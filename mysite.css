@@ -1,0 +1,23 @@
+
+.product {
+position:relatve;
+
+}
+
+.deal {
+  position: absolute;
+  top: 100px;
+  left: 10px;
+  width:120px;
+  height:96px;
+}
+
+
+.item {
+
+  width:600px;
+  height:480px;
+  top: 100px;
+  left: 10px;
+
+}
